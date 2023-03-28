@@ -1,4 +1,4 @@
-<h1 align="center">oi 👋, Eu sou o Bruno Santos</h1>
+<h1 align="center">oi 👋, eu sou o Bruno Santos</h1>
 <h3 align="center">Não há nada mais empolgante para mim do que explorar dados e encontrar insights que possam ajudar a tomar decisões informadas e resolver problemas reais.</h3>
 
 - 🌱 Atualmente estou aprofundando em python **Python e Machine Learning**
